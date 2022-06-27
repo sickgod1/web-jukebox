@@ -6,8 +6,8 @@
 
 * Getting Started
 ```bush
-git clone https://github.com/sickgod1/discord-jukeboxweb
-cd discord-jukeboxweb
+git clone https://github.com/sickgod1/web-jukebox
+cd web-jukebox
 npm install
 ```
 * Start the project
